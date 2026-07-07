@@ -1,22 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=220&section=header&text=Dev%20Kumar%20Raikwar&fontSize=48&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Agentic%20AI%20Systems%20%7C%20Cloud%20Native&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Dev%20Kumar%20Raikwar&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=CS%20(IoT)%20Student%20%7C%20Building%20with%20AI%20Coding%20Agents%20%7C%20Learning%20DSA&descAlignY=58&descSize=16" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+production-grade+full-stack+systems;Architecting+agentic+AI+%2B+RAG+pipelines;Shipping+on+serverless+%2B+edge+infrastructure;B.Tech+CS+(IoT)+%40+Manipal+University+Jaipur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=3rd-Year+B.Tech+CS+(IoT)+Student;Building+full-stack+%2B+agentic+AI+projects;Learning+DSA+one+problem+at+a+time;Still+figuring+a+lot+of+this+out" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20(IoT)-1e3a5f?style=for-the-badge&logo=googlescholar&logoColor=white" />
 <img src="https://img.shields.io/badge/Manipal%20University%20Jaipur-Class%20of%202028-0f4c75?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Jaipur%2C%20Rajasthan-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/CGPA-8.4-0ea5e9?style=for-the-badge&logo=googlescholar&logoColor=white" />
 
 <br/><br/>
 
-<a href="https://gitgravity.vercel.app"><img src="https://img.shields.io/badge/Portfolio-gitgravity.vercel.app-0284c7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://gitgravity.vercel.app"><img src="https://img.shields.io/badge/Project-gitgravity.vercel.app-0284c7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/dev-kumar-raikwar-x7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0369a1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:dev.1806raikwar21@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0891b2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/letskeepitsecretd"><img src="https://img.shields.io/badge/GitHub-letskeepitsecretd-155e75?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -25,7 +25,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=letskeepitsecretd&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/letskeepitsecretd?label=Followers&style=for-the-badge&color=0284c7&logo=github" />
-<img src="https://img.shields.io/github/stars/letskeepitsecretd?label=Stars&style=for-the-badge&color=38bdf8&logo=github" />
 
 </div>
 
@@ -36,30 +35,29 @@
 ## ⚙️ About Me
 
 ```yaml
-engineer:
+student:
   name: "Dev Kumar Raikwar"
-  role: "Full-Stack Engineer · Agentic AI Systems Builder"
-  focus:
-    - Production-grade full-stack architecture (Next.js, FastAPI, distributed systems)
-    - Agentic AI pipelines — tool-calling, RAG, confidence-based decision routing
-    - Cloud-native deployment across serverless + edge infrastructure
-    - Systems that survive real production failure modes, not just demos
-  mindset: "Ship it live. Debug it live. Own the whole stack."
+  year: "3rd Year, B.Tech CS (IoT)"
+  university: "Manipal University Jaipur"
+  cgpa: 8.4
+  how_i_build:
+    - Ship real, working projects and figure out the rest along the way
+    - Comfortable gluing together frontend, backend, and deployment for a project to actually work
+  focus_areas:
+    - Sharpening core DSA — recursion, trees, graphs
+  self_description: "Still a student. Still learning. Building things anyway."
 ```
 
-I'm a penultimate-year **B.Tech Computer Science (IoT)** student who builds things end-to-end and pushes them to production — not just prototypes. My work spans **cinematic frontend engineering** (Canvas particle systems, WebGL, Framer Motion at 60fps) to **agentic backend architecture** (LLM tool-calling pipelines, RAG retrieval, async worker scheduling under rate limits).
-
-I care about the parts of engineering that don't show up in a demo video: CORS-safe server proxying, edge middleware auth, database concurrency under load, and systems that degrade gracefully when the cloud provider doesn't cooperate.
+I'm a 3rd-year Computer Science (IoT) student. I like building things that actually run — not just code that compiles, but apps that are deployed, working, and have real users hitting them. I'm currently sharpening core DSA — recursion, trees, and graphs. I'm a student who's figured out how to ship, and I'm working on closing the gap between "can build a working app" and "understands everything under the hood."
 
 <table align="center">
 <tr>
 <td>
 
-**🎯 Open To**
+**🎯 Currently Looking For**
 - Software Engineering Internships (2027)
-- AI/ML Engineering Roles
-- Full-Stack Product Engineering
-- Open Source Collaboration
+- Opportunities to learn from people better than me at this
+- Feedback on my projects — I'd rather know what's wrong now
 
 </td>
 </tr>
@@ -69,7 +67,7 @@ I care about the parts of engineering that don't show up in a demo video: CORS-s
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tools I've Used
 
 <div align="center">
 
@@ -91,9 +89,9 @@ I care about the parts of engineering that don't show up in a demo video: CORS-s
 
 <br/><br/>
 
-**Cloud, DevOps & Tooling**
+**Deployment & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=vercel,git,github,linux,ansible,vscode,arduino,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=vercel,git,github,linux,vscode,arduino,raspberrypi" />
 
 </div>
 
@@ -101,105 +99,82 @@ I care about the parts of engineering that don't show up in a demo video: CORS-s
 
 ---
 
-## ⚙️ AI / ML Expertise
+## ⚙️ What I've Worked With (AI/Agentic Stuff)
 
-<div align="center">
+Built as part of one hackathon project (FinTwin), still developing depth here:
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| **LLM Tool-Calling Agents** | ⭐⭐⭐⭐☆ | Built a 4-step autonomous agent pipeline (Investigate → Decide → Draft → Validate) using Groq / Llama 3.3 70B |
-| **Retrieval-Augmented Generation** | ⭐⭐⭐⭐☆ | Custom RAG system with `sentence-transformers` (all-MiniLM-L6-v2) + numpy cosine similarity, no vector DB overhead |
-| **Confidence-Threshold Routing** | ⭐⭐⭐⭐☆ | Production routing logic (p > 0.85) separating auto-send actions from human-review queues |
-| **Async LLM Orchestration** | ⭐⭐⭐⭐☆ | Rate-limit-aware worker scheduling with multi-key API rotation, eliminating 429 failures under load |
-| **Embeddings & Similarity Search** | ⭐⭐⭐☆☆ | Local embedding generation and cosine-similarity retrieval over policy/product documents |
-
-</div>
+- **LLM tool-calling agents** — built an agent pipeline (Groq / Llama 3.3) that picks between a few tools before responding
+- **Basic RAG** — used sentence-transformers + cosine similarity to retrieve relevant docs before an LLM call, no vector DB
+- **Confidence-based routing** — set a threshold so low-confidence agent decisions get flagged for human review instead of auto-executing
+- **Async API handling** — dealt with rate limits by rotating API keys across a few Groq keys
 
 <br/>
 
 ---
 
-## ⚙️ Featured Projects
+## ⚙️ Projects
 
 <details open>
-<summary><b>🚀 GitGravity — GitHub Wrapped Experience</b></summary>
+<summary><b>🚀 GitGravity — GitHub Wrapped-style Experience</b></summary>
 <br/>
 
-Live-deployed full-stack web app that fetches real GitHub stats and renders them as a cinematic 5-slide story experience, ending in a procedurally generated shareable developer identity card.
+A deployed web app (gitgravity.vercel.app) that pulls a user's real GitHub stats and turns them into a 5-slide animated story, ending with a shareable, procedurally generated card.
 
 | | |
 |---|---|
-| **Stack** | Next.js 14, TypeScript, Framer Motion, Canvas API, Upstash Redis, Vercel Edge |
-| **Scale** | 1,296+ unique procedural card combinations, deterministic monthly regeneration |
-| **Performance** | Canvas-based particle system sustaining 60fps with 300 physics-simulated objects |
-| **Security** | Edge Middleware auth at CDN layer, HTTP-only cookie session, server-side CORS proxying |
-| **Impact** | Live production app with Superadmin analytics dashboard |
-| **Repository** | [gitgravity.vercel.app](https://gitgravity.vercel.app) |
+| **Stack** | Next.js 14, TypeScript, Framer Motion, Canvas API, Upstash Redis, Vercel |
+| **Status** | Live, still actively being worked on |
+| **What it does** | Canvas-based particle animation, deterministic card generation per user/month, an admin dashboard to see usage |
 
-Architected a server-side proxy route (`/api/admin/save-card`) to bypass browser CORS restrictions on CDN uploads, and a procedural card generation engine using deterministic seeding from username, commit count, top language, and month. Debugged four distinct production cloud failures — ephemeral filesystem crashes, stale App Router cache snapshots, silent payload drops on Upstash, and GitHub CDN CORS blank-avatar issues.
+Ran into and fixed real deployment issues along the way — Vercel's ephemeral filesystem wiping saved data (moved to Redis), Next.js serving stale cached data, and CORS issues with GitHub's avatar CDN.
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>🏦 FinTwin — Agentic AI Banking Engagement System</b></summary>
+<summary><b>🏦 FinTwin — Agentic AI Banking Project</b></summary>
 <br/>
 
-Built for the **SBI Banking AI Hackathon 2026** — a distributed agentic system processing a live transaction stream for 500 synthetic banking customers, from signal detection to autonomous, policy-grounded customer outreach.
+Built for the SBI Banking AI Hackathon 2026. A banking-outreach system where an LLM agent looks at a synthetic customer's data, decides if/how to reach out, and either auto-sends an email or flags it for human review.
 
 | | |
 |---|---|
-| **Stack** | FastAPI, asyncio, SQLite (WAL), React/Vite/TypeScript/Tailwind, Groq LLM, n8n, WebSocket |
-| **Scale** | 500 synthetic customers, concurrent async event pipeline, 300K tokens/day headroom |
-| **Performance** | 3-key Groq API rotation eliminating 429 throttling across simultaneous LLM calls |
-| **Security** | Confidence-threshold gated auto-send (p > 0.85) with human-review fallback queue |
-| **Impact** | Verified real end-to-end email delivery with live customer data in production inbox |
-| **Repository** | Private — available on request |
+| **Stack** | FastAPI, SQLite, React/Vite/TypeScript, Groq LLM, n8n, WebSocket |
+| **Status** | Submitted, backend live on Render, frontend live on Vercel |
+| **What it does** | 4-step agent flow (Investigate → Decide → Draft → Validate), basic RAG for policy lookup, real email delivery tested end-to-end |
 
-A 4-step LLM tool-calling agent (Investigate → Decide → Draft → Validate) autonomously selects from debt-to-income calculation, risk-flag checks, EMI lookups, and RAG-grounded policy search tools before drafting personalized outreach. Diagnosed 15+ production-style bugs including WebSocket type collisions, n8n payload mismatches, a mid-project LLM model decommission, and a git history rewrite to strip an accidental 200MB+ venv commit.
+Spent a lot of this project debugging — WebSocket message issues, broken email payloads, an LLM model getting deprecated mid-project, and accidentally committing a 200MB virtual environment folder to git.
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>🎓 SyncSphere — Campus Social & Collaboration Platform</b></summary>
+<summary><b>🎓 SyncSphere — Campus Social Platform</b></summary>
 <br/>
 
-Full-stack campus social platform combining LinkedIn-style professional networking with an Instagram-style social feed, purpose-built for university students.
+A 2nd-year college project — a campus-only social app combining a LinkedIn-style networking feed with peer-matching for hackathons/group work and a club discovery feature.
 
 | | |
 |---|---|
 | **Stack** | React Native, Node.js, MongoDB, Firebase |
-| **Scale** | Campus-wide event feed, peer-matching, and club recommendation modules |
-| **Performance** | Real-time event feed with hybrid/offline/online tagging and one-tap registration |
-| **Security** | Firebase-authenticated peer discovery and collaboration requests |
-| **Impact** | 2nd-year Project-Based Learning submission solving real campus discovery friction |
-| **Repository** | Available on request |
-
-Includes a peer-matching system for hackathons and group assignments, an interest-based club recommendation engine, and a peer-help marketplace for cross-department collaboration requests.
+| **Status** | Built as a Project-Based Learning (PBL) submission |
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>🗂️ EventVault — College Event Management System</b></summary>
+<summary><b>🗂️ EventVault — Event Management System</b></summary>
 <br/>
 
-Full-stack event management system for college administrators to create, manage, and track academic and technical events.
+A CRUD-based system for college admins to create and manage events — registration, prize pool tracking, and event metadata.
 
 | | |
 |---|---|
 | **Stack** | Node.js, Express, MySQL, REST API |
-| **Scale** | Multi-department concurrent event handling with prize pool tracking |
-| **Performance** | Normalized schema supporting aggregate queries across events/teams/participants |
-| **Security** | Referential integrity preventing orphaned registrations |
-| **Impact** | Clean deduplication and accurate headcounts across concurrent events |
-| **Repository** | Available on request |
-
-Full CRUD via a normalized REST API, with a participant registration schema keyed on team-leader identity for accurate cross-team deduplication.
+| **Status** | College project, functional CRUD system |
 
 </details>
 
@@ -207,73 +182,25 @@ Full CRUD via a normalized REST API, with a participant registration schema keye
 
 ---
 
-## ⚙️ Experience
+## ⚙️ Positions of Responsibility
 
-**Senior Coordinator – Promotions** · IEEE Computer Society, Manipal University Jaipur
+*(Extracurricular / campus roles — not paid work experience)*
+
+**Senior Coordinator – Promotions** · IEEE Computer Society, MUJ
 `2025 – 2026`
+Handled promotional outreach for IEEE CS chapter events on campus.
 
-Led promotional strategy and cross-platform outreach for IEEE CS chapter events, driving student participation across campus.
-
-- Cross-platform campaign planning and execution
-- Stakeholder coordination across student chapters
-- Event visibility and engagement growth
-
-`Leadership` `Marketing Strategy` `Community Building`
-
-<br/>
-
-**Joint Head – Curations** · E-Cell MUJ (Entrepreneurship Cell)
+**Joint Head – Curations** · E-Cell MUJ
 `2025 – 2026`
-
-Co-led sourcing and curation of startup ideas and speaker content; organized entrepreneurship pitching sessions for the student community.
-
-- Startup idea sourcing and vetting
-- Speaker curation and session design
-- Cross-functional coordination with E-Cell leadership
-
-`Curation` `Program Management` `Entrepreneurship`
-
-<br/>
+Helped source and curate startup pitches and speaker sessions for E-Cell events.
 
 **Core Member** · MUJ HackX & Genesis 4.0
 `2025`
-
-Coordinated planning and on-ground execution for 24-hour hackathon events, managing participant logistics across teams.
-
-- End-to-end hackathon logistics
-- Participant and team coordination
-- On-ground execution management
-
-`Event Operations` `Logistics` `Hackathon Ops`
-
-<br/>
+Helped coordinate logistics for a 24-hour campus hackathon.
 
 **Campus Ambassador** · Techfest IIT Bombay | E-Summit IIT Delhi
 `2025`
-
-Represented two flagship national tech/entrepreneurship festivals on campus, driving registrations and student engagement.
-
-- Campus-wide outreach for national flagship events
-- Registration and engagement growth
-
-`Campus Ambassadorship` `Outreach` `Brand Representation`
-
-<br/>
-
----
-
-## ⚙️ Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🏆 SBI Banking AI Hackathon 2026 | Built and shipped FinTwin — a full agentic AI banking engagement system, live end-to-end |
-| 📈 CGPA Growth Trajectory | Consistent upward trend: 6.06 → 6.9 → 7.6 → 8.2 across semesters |
-| 🚀 Production Deployment | GitGravity live-deployed at gitgravity.vercel.app with real-world traffic and admin analytics |
-| 🎯 Leadership Portfolio | Concurrent leadership roles across IEEE CS, E-Cell MUJ, and MUJ HackX |
-
-</div>
+Represented these events on campus, helped drive student registrations.
 
 <br/>
 
@@ -285,7 +212,7 @@ Represented two flagship national tech/entrepreneurship festivals on campus, dri
 
 **Red Hat**
 <br/>
-<img src="https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux%20Automation%20with%20Ansible%209.0-EE0000?style=flat-square&logo=redhat&logoColor=white" />
+<img src="https://img.shields.io/badge/RHEL%20Automation%20with%20Ansible%209.0-EE0000?style=flat-square&logo=redhat&logoColor=white" />
 <img src="https://img.shields.io/badge/Red%20Hat%20System%20Administration%20II%209.3-EE0000?style=flat-square&logo=redhat&logoColor=white" />
 
 <br/><br/>
@@ -294,23 +221,6 @@ Represented two flagship national tech/entrepreneurship festivals on campus, dri
 <br/>
 <img src="https://img.shields.io/badge/CCNA%3A%20Introduction%20to%20Networks-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/CCNA%3A%20Switching%2C%20Routing%20%26%20Wireless%20Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
-
-</div>
-
-<br/>
-
----
-
-## ⚙️ Coding Profiles
-
-> ⚠️ Replace the usernames below with your actual handles on each platform.
-
-<div align="center">
-
-<a href="https://leetcode.com/u/letskeepitsecretd"><img src="https://img.shields.io/badge/LeetCode-letskeepitsecretd-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://www.geeksforgeeks.org/user/letskeepitsecretd"><img src="https://img.shields.io/badge/GeeksforGeeks-letskeepitsecretd-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/letskeepitsecretd"><img src="https://img.shields.io/badge/HackerRank-letskeepitsecretd-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-<a href="https://www.codechef.com/users/letskeepitsecretd"><img src="https://img.shields.io/badge/CodeChef-letskeepitsecretd-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 
 </div>
 
@@ -328,18 +238,6 @@ Represented two flagship national tech/entrepreneurship festivals on campus, dri
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letskeepitsecretd&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" />
-
-</div>
-
-<br/>
-
----
-
-## ⚙️ GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=letskeepitsecretd&theme=onedark&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" />
 
 </div>
 
@@ -367,30 +265,23 @@ Represented two flagship national tech/entrepreneurship festivals on campus, dri
 
 </div>
 
-> Generated via [Platane/snk](https://github.com/Platane/snk) GitHub Action — add the workflow to your profile repo to keep this live.
+> Generated via [Platane/snk](https://github.com/Platane/snk) GitHub Action.
 
 <br/>
 
 ---
 
-## ⚙️ Current Focus
+## ⚙️ Right Now
 
 ```yaml
-current_focus:
+right_now:
   learning:
-    - Advanced DSA — recursion, trees, graphs
-    - Distributed systems design patterns
-    - WebGL / shader programming
+    - DSA fundamentals — recursion, trees, graphs
+    - Understanding the systems I've been building well enough to explain them without help
   building:
-    - GitGravity — Canvas particle systems, SuperCard procedural engine, admin dashboard
-    - Post-hackathon iteration on FinTwin's agentic pipeline
-  exploring:
-    - Agentic AI architectures beyond single-agent tool-calling
-    - Cost-efficient LLM orchestration at scale
-  open_to:
-    - Software Engineering Internships (Summer 2027)
-    - AI/ML Engineering collaborations
-    - Open source contributions
+    - GitGravity — still iterating (animations, SuperCard system, admin dashboard)
+  focus:
+    - Getting better at DSA before internship season
 ```
 
 <br/>
@@ -404,7 +295,7 @@ current_focus:
 <a href="mailto:dev.1806raikwar21@gmail.com"><img src="https://img.shields.io/badge/Gmail-dev.1806raikwar21%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/dev-kumar-raikwar-x7"><img src="https://img.shields.io/badge/LinkedIn-dev--kumar--raikwar--x7-0369a1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/letskeepitsecretd"><img src="https://img.shields.io/badge/GitHub-letskeepitsecretd-155e75?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://gitgravity.vercel.app"><img src="https://img.shields.io/badge/Portfolio-gitgravity.vercel.app-0284c7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://gitgravity.vercel.app"><img src="https://img.shields.io/badge/Project-gitgravity.vercel.app-0284c7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
@@ -414,8 +305,6 @@ current_focus:
 
 <div align="center">
 
-*"Ship it live, debug it live, own the whole stack."*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=150&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=130&section=footer" />
 
 </div>
