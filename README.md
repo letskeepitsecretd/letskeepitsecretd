@@ -1,31 +1,31 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4c1d95,100:7c3aed&height=220&section=header&text=Dev%20Kumar%20Raikwar&fontSize=48&fontColor=e0e0ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Agentic%20AI%20Systems%20%7C%20Cloud%20Native&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=220&section=header&text=Dev%20Kumar%20Raikwar&fontSize=48&fontColor=e2e8f0&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Agentic%20AI%20Systems%20%7C%20Cloud%20Native&descAlignY=58&descSize=18" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+production-grade+full-stack+systems;Architecting+agentic+AI+%2B+RAG+pipelines;Shipping+on+serverless+%2B+edge+infrastructure;B.Tech+CS+(IoT)+%40+Manipal+University+Jaipur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+production-grade+full-stack+systems;Architecting+agentic+AI+%2B+RAG+pipelines;Shipping+on+serverless+%2B+edge+infrastructure;B.Tech+CS+(IoT)+%40+Manipal+University+Jaipur" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20(IoT)-4c1d95?style=for-the-badge&logo=googlescholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Manipal%20University%20Jaipur-Class%20of%202028-6d28d9?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Jaipur%2C%20Rajasthan-7c3aed?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20(IoT)-1e3a5f?style=for-the-badge&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Manipal%20University%20Jaipur-Class%20of%202028-0f4c75?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Jaipur%2C%20Rajasthan-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 <br/><br/>
 
-<a href="https://gitgravity.vercel.app"><img src="https://img.shields.io/badge/Portfolio-gitgravity.vercel.app-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://linkedin.com/in/dev-kumar-raikwar-x7"><img src="https://img.shields.io/badge/LinkedIn-Connect-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:dev.1806raikwar21@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-a855f7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/letskeepitsecretd"><img src="https://img.shields.io/badge/GitHub-letskeepitsecretd-9333ea?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://gitgravity.vercel.app"><img src="https://img.shields.io/badge/Portfolio-gitgravity.vercel.app-0284c7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/dev-kumar-raikwar-x7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0369a1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:dev.1806raikwar21@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0891b2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/letskeepitsecretd"><img src="https://img.shields.io/badge/GitHub-letskeepitsecretd-155e75?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=letskeepitsecretd&label=Profile%20Views&color=7c3aed&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/letskeepitsecretd?label=Followers&style=for-the-badge&color=6d28d9&logo=github" />
-<img src="https://img.shields.io/github/stars/letskeepitsecretd?label=Stars&style=for-the-badge&color=8b5cf6&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=letskeepitsecretd&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/letskeepitsecretd?label=Followers&style=for-the-badge&color=0284c7&logo=github" />
+<img src="https://img.shields.io/github/stars/letskeepitsecretd?label=Stars&style=for-the-badge&color=38bdf8&logo=github" />
 
 </div>
 
@@ -33,7 +33,7 @@
 
 ---
 
-## 🟣 About Me
+## ⚙️ About Me
 
 ```yaml
 engineer:
@@ -69,7 +69,7 @@ I care about the parts of engineering that don't show up in a demo video: CORS-s
 
 ---
 
-## 🟣 Tech Stack
+## ⚙️ Tech Stack
 
 <div align="center">
 
@@ -101,7 +101,7 @@ I care about the parts of engineering that don't show up in a demo video: CORS-s
 
 ---
 
-## 🟣 AI / ML Expertise
+## ⚙️ AI / ML Expertise
 
 <div align="center">
 
@@ -119,7 +119,7 @@ I care about the parts of engineering that don't show up in a demo video: CORS-s
 
 ---
 
-## 🟣 Featured Projects
+## ⚙️ Featured Projects
 
 <details open>
 <summary><b>🚀 GitGravity — GitHub Wrapped Experience</b></summary>
@@ -207,7 +207,7 @@ Full CRUD via a normalized REST API, with a participant registration schema keye
 
 ---
 
-## 🟣 Experience
+## ⚙️ Experience
 
 **Senior Coordinator – Promotions** · IEEE Computer Society, Manipal University Jaipur
 `2025 – 2026`
@@ -262,7 +262,7 @@ Represented two flagship national tech/entrepreneurship festivals on campus, dri
 
 ---
 
-## 🟣 Achievements
+## ⚙️ Achievements
 
 <div align="center">
 
@@ -279,7 +279,7 @@ Represented two flagship national tech/entrepreneurship festivals on campus, dri
 
 ---
 
-## 🟣 Certifications
+## ⚙️ Certifications
 
 <div align="center">
 
@@ -301,7 +301,7 @@ Represented two flagship national tech/entrepreneurship festivals on campus, dri
 
 ---
 
-## 🟣 Coding Profiles
+## ⚙️ Coding Profiles
 
 > ⚠️ Replace the usernames below with your actual handles on each platform.
 
@@ -318,16 +318,16 @@ Represented two flagship national tech/entrepreneurship festivals on campus, dri
 
 ---
 
-## 🟣 GitHub Analytics
+## ⚙️ GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=letskeepitsecretd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&icon_color=8b5cf6&text_color=c4b5fd" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=letskeepitsecretd&theme=tokyonight&hide_border=true&background=0d0221&ring=a78bfa&fire=8b5cf6&currStreakLabel=c4b5fd" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=letskeepitsecretd&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=letskeepitsecretd&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=94a3b8" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letskeepitsecretd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=a78bfa&text_color=c4b5fd" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letskeepitsecretd&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" />
 
 </div>
 
@@ -335,11 +335,11 @@ Represented two flagship national tech/entrepreneurship festivals on campus, dri
 
 ---
 
-## 🟣 GitHub Trophies
+## ⚙️ GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=letskeepitsecretd&theme=darkhub&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=letskeepitsecretd&theme=onedark&no-frame=true&no-bg=false&margin-w=8&row=1&column=7" />
 
 </div>
 
@@ -347,11 +347,11 @@ Represented two flagship national tech/entrepreneurship festivals on campus, dri
 
 ---
 
-## 🟣 Contribution Activity
+## ⚙️ Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=letskeepitsecretd&theme=react-dark&hide_border=true&bg_color=0d0221&color=a78bfa&line=8b5cf6&point=c4b5fd" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=letskeepitsecretd&theme=github-dark&hide_border=true&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=94a3b8" />
 
 </div>
 
@@ -359,7 +359,7 @@ Represented two flagship national tech/entrepreneurship festivals on campus, dri
 
 ---
 
-## 🟣 Contribution Snake
+## ⚙️ Contribution Snake
 
 <div align="center">
 
@@ -373,7 +373,7 @@ Represented two flagship national tech/entrepreneurship festivals on campus, dri
 
 ---
 
-## 🟣 Current Focus
+## ⚙️ Current Focus
 
 ```yaml
 current_focus:
@@ -397,14 +397,14 @@ current_focus:
 
 ---
 
-## 🟣 Connect
+## ⚙️ Connect
 
 <div align="center">
 
-<a href="mailto:dev.1806raikwar21@gmail.com"><img src="https://img.shields.io/badge/Gmail-dev.1806raikwar21%40gmail.com-a855f7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/dev-kumar-raikwar-x7"><img src="https://img.shields.io/badge/LinkedIn-dev--kumar--raikwar--x7-6366f1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/letskeepitsecretd"><img src="https://img.shields.io/badge/GitHub-letskeepitsecretd-9333ea?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://gitgravity.vercel.app"><img src="https://img.shields.io/badge/Portfolio-gitgravity.vercel.app-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:dev.1806raikwar21@gmail.com"><img src="https://img.shields.io/badge/Gmail-dev.1806raikwar21%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/dev-kumar-raikwar-x7"><img src="https://img.shields.io/badge/LinkedIn-dev--kumar--raikwar--x7-0369a1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/letskeepitsecretd"><img src="https://img.shields.io/badge/GitHub-letskeepitsecretd-155e75?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://gitgravity.vercel.app"><img src="https://img.shields.io/badge/Portfolio-gitgravity.vercel.app-0284c7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
@@ -416,6 +416,6 @@ current_focus:
 
 *"Ship it live, debug it live, own the whole stack."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:1a1a2e&height=150&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:1e3a5f,100:0f172a&height=150&section=footer" />
 
 </div>
