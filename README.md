@@ -227,7 +227,12 @@ Represented these events on campus, helped drive student registrations.
 **Coursera**
 <br/>
 <img src="https://img.shields.io/badge/Prompt%20Engineering-0056D2?style=flat-square&logo=coursera&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude%20Code%20in%20Action-0056D2?style=flat-square&logo=coursera&logoColor=white" />
+
+<br/><br/>
+
+**Anthropic**
+<br/>
+<img src="https://img.shields.io/badge/Claude%20Code%20in%20Action-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 
 </div>
 
