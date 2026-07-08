@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=3rd-Year+B.Tech+CS+(IoT)+Student;Building+full-stack+%2B+agentic+AI+projects;Learning+DSA+one+problem+at+a+time;Still+figuring+a+lot+of+this+out" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=3rd-Year+B.Tech+CS+(IoT)+Student;Building+full-stack+%2B+agentic+AI+projects;Learning+DSA;Still+figuring+a+lot+of+this+out" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -44,11 +44,11 @@ student:
     - Ship real, working projects and figure out the rest along the way
     - Comfortable gluing together frontend, backend, and deployment for a project to actually work
   focus_areas:
-    - Sharpening core DSA — recursion, trees, graphs
+    - Sharpening DSA fundamentals
   self_description: "Still a student. Still learning. Building things anyway."
 ```
 
-I'm a 3rd-year Computer Science (IoT) student. I like building things that actually run — not just code that compiles, but apps that are deployed, working, and have real users hitting them. I'm currently sharpening core DSA — recursion, trees, and graphs. I'm a student who's figured out how to ship, and I'm working on closing the gap between "can build a working app" and "understands everything under the hood."
+I'm a 3rd-year Computer Science (IoT) student. I like building things that actually run — not just code that compiles, but apps that are deployed, working, and have real users hitting them. I'm currently sharpening DSA. I'm a student who's figured out how to ship, and I'm working on closing the gap between "can build a working app" and "understands everything under the hood."
 
 <table align="center">
 <tr>
@@ -184,7 +184,7 @@ A CRUD-based system for college admins to create and manage events — registrat
 
 ## ⚙️ Positions of Responsibility
 
-*(Extracurricular / campus roles — not paid work experience)*
+*(Campus roles)*
 
 **Senior Coordinator – Promotions** · IEEE Computer Society, MUJ
 `2025 – 2026`
@@ -196,7 +196,7 @@ Helped source and curate startup pitches and speaker sessions for E-Cell events.
 
 **Core Member** · MUJ HackX & Genesis 4.0
 `2025`
-Helped coordinate logistics for a 24-hour campus hackathon.
+Coordinated day-of operations and helped curate judges for a campus hackathon.
 
 **Campus Ambassador** · Techfest IIT Bombay | E-Summit IIT Delhi
 `2025`
@@ -221,6 +221,13 @@ Represented these events on campus, helped drive student registrations.
 <br/>
 <img src="https://img.shields.io/badge/CCNA%3A%20Introduction%20to%20Networks-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
 <img src="https://img.shields.io/badge/CCNA%3A%20Switching%2C%20Routing%20%26%20Wireless%20Essentials-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+
+<br/><br/>
+
+**Coursera**
+<br/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0056D2?style=flat-square&logo=coursera&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude%20Code%20in%20Action-0056D2?style=flat-square&logo=coursera&logoColor=white" />
 
 </div>
 
@@ -276,7 +283,7 @@ Represented these events on campus, helped drive student registrations.
 ```yaml
 right_now:
   learning:
-    - DSA fundamentals — recursion, trees, graphs
+    - DSA fundamentals
     - Understanding the systems I've been building well enough to explain them without help
   building:
     - GitGravity — still iterating (animations, SuperCard system, admin dashboard)
