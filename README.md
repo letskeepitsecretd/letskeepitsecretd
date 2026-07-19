@@ -19,12 +19,12 @@
 <a href="https://gitgravity.vercel.app"><img src="https://img.shields.io/badge/Project-gitgravity.vercel.app-0284c7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/dev-kumar-raikwar-x7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0369a1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:dev.1806raikwar21@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0891b2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/letskeepitsecretd"><img src="https://img.shields.io/badge/GitHub-letskeepitsecretd-155e75?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/raikwarxdev"><img src="https://img.shields.io/badge/GitHub-raikwarxdev-155e75?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=letskeepitsecretd&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/letskeepitsecretd?label=Followers&style=for-the-badge&color=0284c7&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=raikwarxdev&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/raikwarxdev?label=Followers&style=for-the-badge&color=0284c7&logo=github" />
 
 </div>
 
@@ -244,12 +244,12 @@ Represented these events on campus, helped drive student registrations.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=letskeepitsecretd&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=letskeepitsecretd&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=94a3b8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=raikwarxdev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=raikwarxdev&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=94a3b8" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letskeepitsecretd&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raikwarxdev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" />
 
 </div>
 
@@ -261,7 +261,7 @@ Represented these events on campus, helped drive student registrations.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=letskeepitsecretd&theme=github-dark&hide_border=true&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=94a3b8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raikwarxdev&theme=github-dark&hide_border=true&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=94a3b8" />
 
 </div>
 
@@ -273,7 +273,7 @@ Represented these events on campus, helped drive student registrations.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/letskeepitsecretd/letskeepitsecretd/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/raikwarxdev/raikwarxdev/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -306,7 +306,7 @@ right_now:
 
 <a href="mailto:dev.1806raikwar21@gmail.com"><img src="https://img.shields.io/badge/Gmail-dev.1806raikwar21%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/dev-kumar-raikwar-x7"><img src="https://img.shields.io/badge/LinkedIn-dev--kumar--raikwar--x7-0369a1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/letskeepitsecretd"><img src="https://img.shields.io/badge/GitHub-letskeepitsecretd-155e75?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/raikwarxdev"><img src="https://img.shields.io/badge/GitHub-raikwarxdev-155e75?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://gitgravity.vercel.app"><img src="https://img.shields.io/badge/Project-gitgravity.vercel.app-0284c7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
