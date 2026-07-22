@@ -151,30 +151,18 @@ Spent a lot of this project debugging — WebSocket message issues, broken email
 <br/>
 
 <details>
-<summary><b>🎓 SyncSphere — Campus Social Platform</b></summary>
+<summary><b>📡 Signal — AI-Powered Developer Content Pipeline</b></summary>
 <br/>
 
-A 2nd-year college project — a campus-only social app combining a LinkedIn-style networking feed with peer-matching for hackathons/group work and a club discovery feature.
+An autonomous multi-agent content pipeline that discovers trending developer news, filters it for quality and safety, and generates publish-ready LinkedIn drafts — delivered to email for human review before anything goes live. No LinkedIn API integration exists in the system, so it is architecturally incapable of auto-publishing.
 
 | | |
 |---|---|
-| **Stack** | React Native, Node.js, MongoDB, Firebase |
-| **Status** | Built as a Project-Based Learning (PBL) submission |
+| **Stack** | n8n orchestration, Gemini 2.5/3.6 Flash, Hacker News / Reddit / RSS / GitHub feeds, Gmail API |
+| **Status** | Working pipeline, self-hosted on n8n |
+| **What it does** | Two-agent pipeline — a curator agent filters and ranks trending topics, a writer agent drafts 3 LinkedIn posts per run (14+ rotating style templates), emailed for manual review and publish |
 
-</details>
-
-<br/>
-
-<details>
-<summary><b>🗂️ EventVault — Event Management System</b></summary>
-<br/>
-
-A CRUD-based system for college admins to create and manage events — registration, prize pool tracking, and event metadata.
-
-| | |
-|---|---|
-| **Stack** | Node.js, Express, MySQL, REST API |
-| **Status** | College project, functional CRUD system |
+Rebuilt the prompting strategy around one rule: the article isn't the content, the implication is. Hard filters strip out politics, tragedy, layoffs, and disasters before anything reaches the writer agent — safety by design, not by fallback.
 
 </details>
 
@@ -304,8 +292,8 @@ right_now:
 
 <div align="center">
 
-<a href="mailto:dev.1806raikwar21@gmail.com"><img src="https://img.shields.io/badge/Gmail-dev.1806raikwar21%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/dev-kumar-raikwar-x7"><img src="https://img.shields.io/badge/LinkedIn-dev--kumar--raikwar--x7-0369a1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:dev.1806raikwar21@gmail.com"><img src="https://img.shields.io/badge/Gmail-dev.1806raikwar21%40gmail.com-0891b2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/raikwarxdev"><img src="https://img.shields.io/badge/GitHub-raikwarxdev-155e75?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://gitgravity.vercel.app"><img src="https://img.shields.io/badge/Project-gitgravity.vercel.app-0284c7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
